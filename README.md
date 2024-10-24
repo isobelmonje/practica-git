@@ -1,2 +1,3 @@
 # practica-git
--Cambio desde github en nueva-rama.
+-cambio desde github en nueva-rama.
+-cambio desde local en rama-local.
